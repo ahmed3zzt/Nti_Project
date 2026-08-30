@@ -1,0 +1,92 @@
+[
+  {
+    "date": "2026-08-26 23:05",
+    "home": "Arsenal",
+    "away": "Liverpool",
+    "prediction": "D",
+    "prob_home": 0.2994614956266999,
+    "prob_draw": 0.4199755597634504,
+    "prob_away": 0.28056294460984965,
+    "confidence": "MEDIUM"
+  },
+  {
+    "date": "2026-08-26 22:17",
+    "home": "Arsenal",
+    "away": "Liverpool",
+    "prediction": "D",
+    "prob_home": 0.39369327996382486,
+    "prob_draw": 0.5601328994247956,
+    "prob_away": 0.04617382061137961,
+    "confidence": "HIGH"
+  },
+  {
+    "date": "2026-08-26 22:15",
+    "home": "Arsenal",
+    "away": "Liverpool",
+    "prediction": "D",
+    "prob_home": 0.4010861778741199,
+    "prob_draw": 0.40597544634519733,
+    "prob_away": 0.1929383757806828,
+    "confidence": "MEDIUM"
+  },
+  {
+    "date": "2026-08-26 22:15",
+    "home": "Arsenal",
+    "away": "Liverpool",
+    "prediction": "H",
+    "prob_home": 0.4359486057051539,
+    "prob_draw": 0.41139759475321114,
+    "prob_away": 0.15265379954163497,
+    "confidence": "MEDIUM"
+  },
+  {
+    "date": "2026-08-26 22:15",
+    "home": "Arsenal",
+    "away": "Liverpool",
+    "prediction": "H",
+    "prob_home": 0.4498058566259224,
+    "prob_draw": 0.3974474547486497,
+    "prob_away": 0.15274668862542792,
+    "confidence": "MEDIUM"
+  },
+  {
+    "date": "2026-08-26 22:14",
+    "home": "Arsenal",
+    "away": "Liverpool",
+    "prediction": "A",
+    "prob_home": 0.21818719789110963,
+    "prob_draw": 0.19773686727329035,
+    "prob_away": 0.5840759348356,
+    "confidence": "HIGH"
+  },
+  {
+    "date": "2026-08-26 22:12",
+    "home": "Arsenal",
+    "away": "Liverpool",
+    "prediction": "A",
+    "prob_home": 0.20050417684268068,
+    "prob_draw": 0.20777560779344872,
+    "prob_away": 0.5917202153638706,
+    "confidence": "HIGH"
+  },
+  {
+    "date": "2026-08-26 22:12",
+    "home": "Arsenal",
+    "away": "Liverpool",
+    "prediction": "A",
+    "prob_home": 0.20050417684268068,
+    "prob_draw": 0.20777560779344872,
+    "prob_away": 0.5917202153638706,
+    "confidence": "HIGH"
+  },
+  {
+    "date": "2026-08-26 22:09",
+    "home": "Aston Villa",
+    "away": "Liverpool",
+    "prediction": "D",
+    "prob_home": 0.3150878296502746,
+    "prob_draw": 0.3530504768098398,
+    "prob_away": 0.3318616935398856,
+    "confidence": "LOW"
+  }
+]
